@@ -4,7 +4,7 @@ I started programming at the age of 14 in python on a Raspberry Pi in school. Ov
 
 ## Current Projects
 
-### 🎲 [Archipelago-RaC3](https://github.com/Taoshix/Archipelago-RaC3)
+### 🎲 [Archipelago-RaC3 - Ratchet & Clank 3 Randomizer](https://github.com/Taoshix/Archipelago-RaC3)
 I am the main maintainer of the **Ratchet & Clank 3 (Up Your Arsenal) Archipelago Multiworld Randomizer**. 
 This project lets you experience Ratchet & Clank 3 in a way you have never seen before.
 
@@ -14,7 +14,7 @@ This project lets you experience Ratchet & Clank 3 in a way you have never seen 
 * **Tech Stack:** Primarily Python (Archipelago logic & world system) with a few MIPS Assembly instructions for patching (PS2 memory injection).
 * **Workflow:** Active development managed through a strict `feature -> staging -> main` rebase pipeline.
 
-### 🤖 [SketchBot](https://github.com/Taoshix/sketchbot)
+### 🤖 [SketchBot - General Purpose Discord Bot](https://github.com/Taoshix/sketchbot)
 I am the founder and lead developer of **Sketch Bot**, a feature-rich, multi-purpose Discord bot originally built to be a testing ground for me to learn C# but has since then grown to become a discord bot for enhancing community engagement across hundreds of servers.
 
 * **Scale & Impact:** Currently found in over **1,300+ Discord servers** with a combined total of **460,000+ members**.
